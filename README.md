@@ -7,3 +7,7 @@ This is brand new so I will add better organization as it grows.
 
 - Primary/Replica
 - Coordinator/Worker
+
+# Whitelist/Blacklist
+
+- Allowlist/Blocklist (thx @GregRobson_UK)
